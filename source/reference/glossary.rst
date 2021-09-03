@@ -1,5 +1,5 @@
-Contributing to the Project
-===========================
+Glossary
+========
 
 .. meta::
 
@@ -9,9 +9,11 @@ Contributing to the Project
    :date: 2021-09-03
    :status: Work In Progress
    :version: 0.1.0
-   :filename: contributing.rst
+   :filename: glossary.rst
    :copyright: GPL-3.0-only
 
-.. todo::
+.. glossary::
 
-   The Contributing page still needs to be populated.
+   Sample Term : A
+      Definition of Sample Term
+

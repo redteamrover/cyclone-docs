@@ -6,11 +6,25 @@
 Welcome to Cyclone's documentation!
 ===================================
 
+.. meta::
+
+   :author: Jose Fernando Lopez Fernandez
+   :organization: Southern New Hampshire University
+   :contact: josefernando.lopezfernandez@snhu.edu
+   :date: 2021-09-02
+   :status: Work In Progress
+   :version: 0.1.0
+   :filename: index.rst
+   :copyright: GPL-3.0-only
+
+**Cyclone** is an intelligent engine built to optimize the way we learn.
+
 .. toctree::
    :maxdepth: 2
    :caption: Introduction
 
    introduction/quickstart
+   introduction/overview
 
 .. toctree::
    :maxdepth: 2
@@ -20,12 +34,31 @@ Welcome to Cyclone's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: About the Project
+   :caption: Guides
+
+.. Nothin' yet.
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Reference
+
+   reference/glossary
+
+.. toctree::
+   :maxdepth: 2
+   :caption: About
 
    about/contributing
+   about/to-do
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Miscellaneous
+
+   miscellaneous-resources/writing
 
 Indices and tables
-==================
+------------------
 
 * :ref:`genindex`
 * :ref:`modindex`

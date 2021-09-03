@@ -1,5 +1,5 @@
-Contributing to the Project
-===========================
+To Do List
+==========
 
 .. meta::
 
@@ -9,9 +9,7 @@ Contributing to the Project
    :date: 2021-09-03
    :status: Work In Progress
    :version: 0.1.0
-   :filename: contributing.rst
+   :filename: to-do.rst
    :copyright: GPL-3.0-only
 
-.. todo::
-
-   The Contributing page still needs to be populated.
+.. todolist::
