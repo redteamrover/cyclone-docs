@@ -56,10 +56,3 @@ Welcome to Cyclone's documentation!
    :caption: Miscellaneous
 
    miscellaneous-resources/writing
-
-Indices and tables
-------------------
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
